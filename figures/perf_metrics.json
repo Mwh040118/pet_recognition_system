@@ -1,0 +1,26 @@
+{
+  "none": {
+    "accuracy": 0.6908133026012513,
+    "avg_latency_ms": 31.050836143123735,
+    "p95_latency_ms": 39.09359499999781,
+    "throughput_img_per_sec": 32.205251909825165
+  },
+  "equalize": {
+    "accuracy": 0.6556909230600373,
+    "avg_latency_ms": 36.58357195148672,
+    "p95_latency_ms": 43.78689500003361,
+    "throughput_img_per_sec": 27.334673643297933
+  },
+  "gaussian": {
+    "accuracy": 0.6886181538799253,
+    "avg_latency_ms": 37.025021238062976,
+    "p95_latency_ms": 42.807779999998274,
+    "throughput_img_per_sec": 27.008762360194485
+  },
+  "sharpen": {
+    "accuracy": 0.6491603556140929,
+    "avg_latency_ms": 31.38716582153327,
+    "p95_latency_ms": 38.948589999790784,
+    "throughput_img_per_sec": 31.86015601682488
+  }
+}
